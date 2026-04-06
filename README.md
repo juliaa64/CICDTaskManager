@@ -1,10 +1,10 @@
-# Task Manager
+# Task Manager CI/CD (GitHub Actions)
 
 This project is an educational example of a task manager implemented in Java 21 using Maven.
 
 ## Features
 - Modern structure following professional guidelines (records, sealed interfaces, Optional, Streams, guard clauses, custom exceptions)
-- Unit tests with JUnit 5
+- Unit tests with JUnit 6
 - Integration tests with Mockito (top-down approach, file names ending with `IT.java`)
 - Ready for CI/CD with GitHub Actions
 
@@ -40,7 +40,7 @@ This project is an educational example of a task manager in Java 21 using Maven.
 
 ## Features
 - Modern structure following professional guidelines (records, sealed interfaces, Optional, Streams, guard clauses, custom exceptions)
-- Unit tests with JUnit 5
+- Unit tests with JUnit 6
 - Integration tests with Mockito (top-down approach, file names ending with `IT.java`)
 - Ready for CI/CD with GitHub Actions
 
