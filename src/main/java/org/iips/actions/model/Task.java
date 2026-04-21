@@ -1,7 +1,7 @@
 package org.iips.actions.model;
 
 import java.time.LocalDate;
-import java.util.UUID
+import java.util.UUID;
 
 /**
  * Represents a task in the task manager.
