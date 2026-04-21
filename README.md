@@ -59,7 +59,7 @@ This repository includes three approaches to CI/CD with GitHub Actions:
 
 ### Status badges (one workflow per stage)
 
-> Replace `YOUR_GITHUB_USERNAME/YOUR_REPO_NAME` with your own GitHub username and repository name.
+> Replace `juliaa64/CICDTaskManager` with your own GitHub username and repository name.
 
 ![Compile](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/actions/workflows/compile.yml/badge.svg?branch=main)
 ![Test](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/actions/workflows/test.yml/badge.svg?branch=main)
